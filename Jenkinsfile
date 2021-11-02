@@ -1,7 +1,6 @@
 node {
     agent none
-        stage('deploy'){
-            echo "Deploy is not yet implemented"
-        }
+    stage('deploy'){
+        echo "Deploy is not yet implemented"
     }
 }
